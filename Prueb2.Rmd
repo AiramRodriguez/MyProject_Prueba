@@ -26,7 +26,7 @@ data <- read.table("data.txt", header=T)
 
 
 # Fit linear model
-model <- lm(happiness ~ sunshine, data=data)
+model <- lm(happiness ~ sunshine+ I(sunshine^2), data=data)
 
 ```
 
