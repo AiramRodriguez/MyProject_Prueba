@@ -11,7 +11,7 @@ bibliography: crossref.bib
 Introduction
 ------------
 
-It is well known that individual well-being can be influenced by climatic conditions [@Rodr_guez_2014, @Rodr_guez_2015]. However, ...
+It is well known that individual well-being can be influenced by climatic conditions [@Rodr_guez_2014, @Rodr_guez_2015]. Especially in northern countries However, ...
 
 
 Methods
